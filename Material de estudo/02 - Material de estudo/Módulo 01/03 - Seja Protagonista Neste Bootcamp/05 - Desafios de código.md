@@ -1,0 +1,1 @@
+Vídeo explicativo sobre os desafios de código da plataforma e porque fazer eles.

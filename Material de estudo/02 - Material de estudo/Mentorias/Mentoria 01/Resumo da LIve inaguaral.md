@@ -1,0 +1,44 @@
+- Parte inicial
+  - Falando sobre a pottencial
+  - Falando sobre os mentores
+  - Falando sobre a DIO
+  - Dando dicas
+- Segunda Parte
+  - Stack de tecnologias .NET
+    - Git
+    - GitHub
+    - .Net Core
+    - C#
+    - SQL Server
+- Terceira parte
+  - Termo bootcamp
+  - Metodologia Bootcamp
+    - Desenvolvimento de projetos
+    - Experiência de aprendizagem gamificada
+    - Prodruções reais e imersivas(prazos reais)
+    - Competição e desafios práticos de código
+    - Sair da zona de conforto
+    - Comunidade colaborativa
+    - Aulas síncronas
+    - Aulas assíncronas
+    - Questionário
+    - Desafios de código
+    - Desafios de projetos
+    - Rooms
+- Quarta parte
+  - Praticas da vida real
+  - Mercado de trabalho
+  - Atuação profissional
+  - Geração de mindset
+  - Desenvolvimento de postura
+- Quinta parte
+  - Preencher o perfil da DIO
+  - Falando sobre a plataforma passo a passo
+  - Explicando sobre a IDE dos desafios de código
+
+- Sexta parte
+  - Entragar projeto final no gitlab
+  - Falando sobre as mentorias
+  - Falando sobre o HELP
+- Sétima parte
+  - Explicação final e uma palestra motivacional

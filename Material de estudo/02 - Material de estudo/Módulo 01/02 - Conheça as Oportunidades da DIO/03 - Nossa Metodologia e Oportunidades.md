@@ -1,0 +1,1 @@
+Pequena explicação da plataforma e suas metodologias de estudos.

@@ -1,0 +1,1 @@
+Apenas um vídeo explicando sobre o FAQ e tira dúvidas da plataforma

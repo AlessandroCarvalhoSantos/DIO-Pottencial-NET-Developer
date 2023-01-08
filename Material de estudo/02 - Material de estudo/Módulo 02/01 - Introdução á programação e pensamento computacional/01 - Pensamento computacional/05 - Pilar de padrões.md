@@ -1,0 +1,30 @@
+<center><b>Vídeo 05 de Pilar de padrões</b></center> 
+
+- Reconhecimento de padrões
+  - Modelo base
+  - Estrutura invariante
+  - Repetição
+  - Similaridades e diferença
+- Porque determinar padrões
+  - Generalizar, como objetivo de obter resolução para problemas diferentes
+  - Categorias
+    - Dependem do domínio
+    - Tipo de mídia
+  - Classes
+- Reconhecimento por humano
+  - Grau de similaridade
+  - Grupos conhecidos x objeto desconhecido
+- Reconhecimento por maquina
+  - Representação de atributos
+  - Aprendizado - conceito associado ao objeto
+  - Armazenar dados
+  - Regras de decisão
+- Overview
+  - Extração de característica -> Abordagem
+  - Classificação de dados -> Abordagem
+- Aplicações
+  - Classificação de dados
+  - Reconhecimento de imagem
+  - Reconhecimento de fala
+  - Análise de cenas
+  - Classificação de documentos

@@ -1,0 +1,1 @@
+Pequeno vídeo com CEO da DIO, explicando a plataforma

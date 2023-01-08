@@ -1,0 +1,31 @@
+<center><b>Vídeo 03 de Habilidades complementares</b></center> 
+
+- **Habilidades principais**
+  - Raciocínio lógico
+    - Pensamento estruturado
+    - Encontrar uma solução de problema
+    - Habilidade de treinamento
+    - Classificação 
+      - Indução
+        - Cria Leis e teorias ao induzir de algo
+      - Dedução
+        - A partir de leis e teoria você deduz algo
+      - Abdução
+        - A partir de um conclusão você tira uma premissa 
+    - Inferência
+      - Sintética
+        - Abdução 
+        - Indução
+      - Analítica
+        - Dedução
+  - Aperfeiçoamento
+    - Melhoramento
+    - Aprimoramento
+    - Ato de aperfeiçoar
+    - Refinamento
+    - Melhor uso do recurso
+      - Encontrar solução eficiente
+      - Otimizar processo
+    - Melhorar códigos e algoritmos
+      - Simplificar linhas de código
+      - Funções bem definidas

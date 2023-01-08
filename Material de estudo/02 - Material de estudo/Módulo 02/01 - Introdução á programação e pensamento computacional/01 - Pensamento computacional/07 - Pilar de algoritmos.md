@@ -1,0 +1,45 @@
+<center><b>Vídeo 07 de Pilar da algoritmos</b></center> 
+
+- Maquina
+  - Precisa de instruções detalhadas
+  - Não opera sozinho
+  - O computador recebe, manipula e armazena dados
+  - Executa instruções
+- Instruções
+  - O que precisa ser feito
+  - A ordem de ser feito
+  - Algoritmo entendido por maquina e humanos
+- Desenvolvimento de algoritmos
+  - Análise 
+    - Estudo de definição dos dados de entrada e saída
+  - Algoritmo
+    - Descreve o problema pro meio de ferramentas narrativas, fluxograma ou pseudocódigo
+  - Codificação
+    - O algoritmo é codificado de acordo com a linguagem de programação escolhida.
+- Algoritmos
+  - Sequência de passos com objetivo definido
+  - Execução de tarefas específicas
+  - Conjunto de operações que resultam em uma sucessão finita de ações
+- Como construir um algoritmo
+  - Compreensão do problema
+    - Pontos mais importantes
+  - Definição dos dados de entrada
+    - Dados fornecidos e cenário
+  - Definir processamento
+    - Cálculos e restrições
+  - Definir os dados de saída
+    - Após processamento
+  - Utilizar um método de construção
+    - Construção e refinamento do algoritmo
+  - Teste e diagnóstico
+- Construção de algoritmos
+  - Narrativa
+    - Linguagem natural
+    - Sem conceitos novos
+    - Possui ambiguidade
+  - Fluxograma
+    - Utilização de símbolos predefinidos
+    - Simples entendimento
+  - Pseudocódigo
+    - Regras definida
+    - Passo a passo em código simples
