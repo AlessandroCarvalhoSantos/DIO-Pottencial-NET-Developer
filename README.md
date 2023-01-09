@@ -1,12 +1,12 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">Repositório do Bootcamp Carrefour Web Developer disposto pela Digital Innovation One.
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">Repositório do Bootcamp Pottencial .NET Developer disposto pela Digital Innovation One.
 
 
 
-Olá pessoal, meu nome é Alessandro C. Santos e estou adentrando na carreira de desenvolvedor FullStack e designer, estou graduando em Sistema de Informação no Instituto Federal do Espírito Santo - Campus Cachoeiro de Itapemirim, atualmente faço estágio na prefeitura municipal de Cachoeiro de Itapemirim - ES, já tive a oportunidade e liberdade de desenvolver alguns sistemas para a cidade, mais abaixo tem alguns sistema que já desenvolvi, conhecimentos que possuo e que pretendo ter a médio prazo, estou fazendo vários cursos na área e buscando experiência. Também já trabalhei fazendo alguns freelances na área de designer.
+Olá pessoal, meu nome é Alessandro C. Santos e estou adentrando na carreira de desenvolvedor FullStack e designer, estou graduando em Sistema de Informação no Instituto Federal do Espírito Santo - Campus Cachoeiro de Itapemirim, já fiz estágio na prefeitura municipal de Cachoeiro de Itapemirim - ES, já tive a oportunidade e liberdade de desenvolver alguns sistemas para a cidade, mais abaixo tem alguns sistema que já desenvolvi, conhecimentos que possuo e que pretendo ter a médio prazo, estou fazendo vários cursos na área e buscando experiência. Também já trabalhei fazendo alguns freelances na área de designer. Atualmente trabalho na empresa Captar Consultoria como programador Junior.
 
-Atualmente pretendo organizar meu Linkedin e passar vários projetos para o GitHub (Usava  o GitLab), além de montar meu site pessoal, e de focar em vários míni cursos e BootCamps, já que estou no estágio final da minha faculdade.
+Pretendo organizar meu Linkedin e passar vários projetos para o GitHub (Usava  o GitLab), além de montar meu site pessoal, e de focar em vários míni cursos e BootCamps, além de me especializar em uma linguagem e na arquitetura de projetos.
 
-Entrei nesse BootCamp principalmente como um desafio de estudo e concluir os projetos aqui, me desafiando a sair dos meus métodos convencionais de estudos, sou bastante metódico e gosto sempre de planejar bem e anotar cada detalhe o que leva tempo e paciência, sempre tive facilidade em aprender rápido principalmente na área de exatas, porém são tantos detalhes legais de se pensar que vou esquecendo aquilo que eu não vou usando com o tempo, o que me incomoda, por isso sempre anoto tudo a mão, e nos finais de semana vou revisando conteúdos de forma aleatória. Como o BootCamp tem um prazo para concluir, então tenho que sair da minha bolha convencional e desenvolver formas mais rápidas de estudar e desenvolver projetos de forma eficiente.
+Entrei nesse BootCamp principalmente como um desafio de estudo e concluir os projetos aqui, me desafiando a sair dos meus métodos convencionais de estudos, sou bastante metódico e gosto sempre de planejar bem e anotar cada detalhe o que leva tempo e paciência, sempre tive facilidade em aprender rápido principalmente na área de exatas, porém são tantos detalhes legais de se pensar que vou esquecendo aquilo que eu não vou usando com o tempo, o que me incomoda, por isso sempre anoto tudo, e nos finais de semana vou revisando conteúdos de forma aleatória. Como o BootCamp tem um prazo para concluir, então tenho que sair da minha bolha convencional e desenvolver formas mais rápidas de estudar e desenvolver projetos de forma eficiente.
 
 
 
@@ -29,9 +29,9 @@ Entrei nesse BootCamp principalmente como um desafio de estudo e concluir os pro
 
 ##### :heavy_check_mark:Tecnologias que tenho conhecimento
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"><img src="https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=oracle">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"><img src="https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=oracle">
 
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><img src="https://img.shields.io/badge/S-ScriptCase-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"><img src="https://img.shields.io/badge/S-ScriptCase-blue?style=for-the-badge"><img src="https://img.shields.io/badge/DX-DevExpress-yellowgreen?style=for-the-badge">
 
 ----
 
@@ -43,19 +43,25 @@ Entrei nesse BootCamp principalmente como um desafio de estudo e concluir os pro
 
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"><img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"><img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"><img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
 
 ----
 
+##### :computer:Sistemas que estou trabalhando atualmente
 
-
-----
-
-##### :computer:Sistemas que desenvolvi ou estou desenvolvendo na prefeitura
-
-| Sistema de Boletim de Atendimento Urgente (Em desenvolvimento) |
+|          SUAS - Sistema Único de Assistência Social          |
 | :----------------------------------------------------------: |
-| Estou desenvolvendo o site utilizando tecnologias como PHP, JavaScript, HTML/CSS, Bootstrap, criei a parte de banco de dados no Oracle, arquitetado no padrão MVC e tudo supervisionado. O sistema conta com painel administrativo, para médicos, recepcionistas e enfermeiros. É um sistema de cadastro de boletim de atendimento de urgência e que visa integrar todas as unidades básicas de saúde para um melhor atendimento da cidade de Cachoeiro de Itapemirim-ES. O sistema ainda ta no desenvolvimento inicial. |
+| Atualmente trabalho no desenvolvimento do sistema para o SUAS como desenvolvedor júnior, atuo recebendo demandas em várias áreas do sistema, desde banco, Back-End e front. Atuo principalmente na construção do sistema e na resolução de bug e melhorias das mesma. |
+
+
+
+----
+
+##### :computer:Sistemas que desenvolvi  na prefeitura
+
+|  Sistema de Boletim de Atendimento Urgente (Não terminado)   |
+| :----------------------------------------------------------: |
+| Estive desenvolvendo o site utilizando tecnologias como PHP, JavaScript, HTML/CSS, Bootstrap, criei a parte de banco de dados no Oracle, arquitetado no padrão MVC e tudo supervisionado. O sistema conta com painel administrativo, para médicos, recepcionistas e enfermeiros. É um sistema de cadastro de boletim de atendimento de urgência e que visa integrar todas as unidades básicas de saúde para um melhor atendimento da cidade de Cachoeiro de Itapemirim-ES. O sistema estava no desenvolvimento inicial. |
 
 <details style="background-color:black; color:white; padding:10px;">
     <summary>Imagens do projeto</summary>
@@ -70,9 +76,9 @@ Entrei nesse BootCamp principalmente como um desafio de estudo e concluir os pro
 
 
 
-| Sistema municipal de coleta de materiais (Entrando na etapa de implantação) |
+|   Sistema municipal de coleta de materiais (Implementado)    |
 | :----------------------------------------------------------: |
-| Desenvolvi o site utilizando tecnologias como PHP, JavaScript, HTML/CSS, Bootstrap,  criei a parte de banco de dados no Oracle. O sistema conta painel administrativo e parte de usuário, onde ele pode se cadastrar e fazer pedidos de coleta de algum tipo de material. O sistema conta com gerenciamento de sessão, rotas, sistema de envio de e-mail, alteração de senha, cadastros, gerenciamento de pedidos, impressão de comprovantes e etc. Arquitetado no padrão MVC e com supervisão do meu superior. |
+| Desenvolvi o site utilizando tecnologias como PHP, JavaScript, HTML/CSS, Bootstrap, criei a parte de banco de dados no Oracle. O sistema conta painel administrativo e parte de usuário, onde ele pode se cadastrar e fazer pedidos de coleta de algum tipo de material. O sistema conta com gerenciamento de sessão, rotas, sistema de envio de e-mail, alteração de senha, cadastros, gerenciamento de pedidos, impressão de comprovantes e etc. Arquitetado no padrão MVC e com supervisão do meu superior. |
 
 <details style="background-color:black; color:white; padding:10px;">
     <summary>Imagens do projeto</summary>
@@ -138,9 +144,9 @@ Entrei nesse BootCamp principalmente como um desafio de estudo e concluir os pro
         <img src="./Outros/assets/img/readme/Sorteio1.png">
         <img style="margin-top:10px" src="./Outros/assets/img/readme/Sorteio2.png">
         <img style="margin-top:10px" src="./Outros/assets/img/readme/Sorteio3.png">
-        <img style="margin-top:10px" src="./Outros/assets/img/readme/Sorteio4.png">
     </div>
 </details>
+
 
 
 
@@ -177,7 +183,7 @@ Entrei nesse BootCamp principalmente como um desafio de estudo e concluir os pro
 
 <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"> alessandrocarvalhosantos@protonmail.com
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> ww.linkedin.com/in/alessandrocarvalhosantos
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> www.linkedin.com/in/alessandrocarvalhosantos
 
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> https://github.com/AlessandroCarvalhoSantos/
 
